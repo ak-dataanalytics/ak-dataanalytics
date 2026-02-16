@@ -28,5 +28,5 @@ Analytical and detail-oriented data professional with strong foundations in SQL,
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (professional email)
+- LinkedIn: ([add link](https://www.linkedin.com/in/aditya-kumar-5614022b6/))
+- Email: (adityakrr02@gmail.com)

@@ -1,16 +1,32 @@
-## Hi there 👋
+# Aditya Kumar  
+### Data Analyst | SQL | Excel | Power BI  
 
-<!--
-**ak-dataanalytics/ak-dataanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytical and detail-oriented data professional with strong foundations in SQL, Excel-based analytics, and data visualization. Passionate about transforming raw data into actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- SQL (Joins, Aggregations, Subqueries, Window Functions)
+- Excel (Pivot Tables, Power Query, Dashboarding)
+- Power BI (Data Modeling, DAX Basics)
+- Data Cleaning & EDA
+
+---
+
+## 📊 Featured Projects
+
+### 1️⃣ Retail Sales Analysis (SQL)
+- Analyzed 50,000+ transactions dataset
+- Identified top-performing regions and seasonal sales trends
+- Used joins, CTEs, aggregations
+
+### 2️⃣ Financial Dashboard (Excel)
+- Built interactive revenue & profit dashboard
+- KPI tracking with Pivot Tables
+- Automated reporting using Power Query
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (professional email)

@@ -39,6 +39,21 @@ Currently seeking **Data Analyst** roles where I can apply SQL, Excel, Power BI,
 
 ---
 
+### 📦 `RSMIS/` &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Claude AI](https://img.shields.io/badge/-Claude%20AI-6B46C1?style=flat-square&logo=anthropic&logoColor=white)
+
+> **AI-Powered Creator Intelligence System — reverse-engineering long-form content performance across 545+ Raj Shamani videos using YouTube Data API, Claude AI, and Power BI.**
+
+| What I Did | Key Outcome |
+|---|---|
+| Built end-to-end Python pipeline using YouTube Data API v3 to extract 545 videos (758M+ total views) | Structured dataset of 9 columns covering views, likes, duration & metadata |
+| Zero-shot classified every video title via Claude AI across 8 strategic dimensions | Enriched dataset of 17 columns — no manual labeling required |
+| Mapped hook structures, emotional triggers & title patterns across full catalog | 91.6% of top-performing titles use Curiosity Gap hooks; Fear + Curiosity drive peak views |
+| Built multi-page Power BI dashboard with virality intelligence & recommendation engine | Identified ideal viral formula: AI/Finance topic + 15–18 word title + Curiosity Gap hook |
+
+🔗 **[View Project →]((https://github.com/ak-dataanalytics/ai-powered-creator-intelligence-system))**
+
+---
+
 ### 📦 `india-data-analyst-job-market/` &nbsp; ![SQL](https://img.shields.io/badge/-SQL-00d4ff?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 > **SQL + Power BI analysis of 500+ data analyst job postings across 10+ Indian cities — skills, salaries & hiring trends.**
